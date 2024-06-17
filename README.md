@@ -13,14 +13,15 @@ Manipulating the 3D scene, scripts and components :
   <img  src="Screenshots/week1.gif" width="500px" >
 
 <p align="center">
-  <img  src="Screenshots/photo_2024-06-17_01-30-55.jpg" width="500px" >
+  <img  src="Screenshots/photo_2024-06-17_01-31-04.jpg" width="500px" >
 
 
 
 ## Video do Jogo :
 <p align="center">
-  <video  src="Screenshots/video.mp4" width="500px" >
-
+  <video width="500" controls>
+    <source src="Screenshots/video.mp4" type="video/mp4">
+  </video>
 ## Explicação de Código :
 
 A função Start() é um método especial em scripts do Unity que é chamado uma vez quando o objeto ao qual o script está anexado é inicializado. Aqui está o código da função Start() do script:
@@ -53,4 +54,4 @@ A função *OnTriggerEnter(Collider other)* é um método do Unity que é chamad
     
 ## Final :
 <p align="center">
-  <img  src="Screenshots/photo_2024-06-17_01-31-04.jpg" width="500px" >
+  <img  src="Screenshots/photo_2024-06-17_01-30-55.jpg" width="500px" >
