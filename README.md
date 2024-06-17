@@ -21,7 +21,8 @@ Manipulating the 3D scene, scripts and components :
 <p align="center">
   <video width="500" controls>
     <source src="Screenshots/video.mp4" type="video/mp4">
-    [![Veja o video](https://raw.githubusercontent.com/aaron-wendell/unity3d/master/Screenshots/photo_2024-06-17_01-31-04.jpg)](https://raw.githubusercontent.com/aaron-wendell/unity3d/master/Screenshots/video.mp4)
+    [![Veja o video](https://img.youtube.com/vi/Qe14ilIUYfI/0.jpg)](https://www.youtube.com/watch?v=Qe14ilIUYfI)
+
   </video>
 ## Explicação de Código :
 
