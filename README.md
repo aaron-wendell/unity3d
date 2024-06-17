@@ -18,8 +18,8 @@ Manipulating the 3D scene, scripts and components :
 
 
 ## Video do Jogo :
-<p align="center">
-[![Veja o vídeo](https://img.youtube.com/vi/Qe14ilIUYfI/0.jpg)](https://www.youtube.com/watch?v=Qe14ilIUYfI)
+[![Veja o vídeo](https://img.youtube.com/vi/Qe14ilIUYfI/maxresdefault.jpg)](https://youtu.be/Qe14ilIUYfI)
+
   
 ## Explicação de Código :
 
