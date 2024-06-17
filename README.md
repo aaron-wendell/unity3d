@@ -19,11 +19,8 @@ Manipulating the 3D scene, scripts and components :
 
 ## Video do Jogo :
 <p align="center">
-  <video width="500" controls>
-    <source src="Screenshots/video.mp4" type="video/mp4">
     [![Veja o video](https://img.youtube.com/vi/Qe14ilIUYfI/0.jpg)](https://www.youtube.com/watch?v=Qe14ilIUYfI)
-
-  </video>
+  
 ## Explicação de Código :
 
 A função Start() é um método especial em scripts do Unity que é chamado uma vez quando o objeto ao qual o script está anexado é inicializado. Aqui está o código da função Start() do script:
